@@ -1,1 +1,58 @@
-# Accordion-Using-Pure-CSS01
+<h1 align="center">
+
+
+Accordian Designs 1
+
+
+
+</h1>
+
+
+<br><br>
+<!-- ................................................................................................................................. -->
+
+
+
+
+
+
+
+
+
+### Graphical User Interface
+<br>
+
+<img src="/Accordian Designs 1/demo.png" />
+
+<br><br>
+<!-- ................................................................................................................................. -->
+
+
+### Advancement
+
+> - Once opened, it doesn't close by clicking on the icon.
+
+<br><br>
+<!-- ................................................................................................................................. -->
+
+
+
+
+
+### Developer
+
+Muhammad Abdullah Butt <br>
+abdullahbutt12292210@gmail.com <br>
+> [Instagram](https://www.instagram.com/abdullah.butt.22/)<br>
+> [FaceBook](https://www.facebook.com/profile.php?id=100076291614529)<br>
+> [YouTube](https://www.youtube.com/channel/UCnuOFQyMywg-KuoN-lmav1Q)<br>
+> [Portfolio](https://rebrand.ly/MuhammadAbdullahButt_MABCORP)<br>
+> [Project Displayer]( https://rebrand.ly/ProjectDisplayer_MABCORP)
+<br><br>
+<!-- ................................................................................................................................. -->
+
+
+
+
+
+
